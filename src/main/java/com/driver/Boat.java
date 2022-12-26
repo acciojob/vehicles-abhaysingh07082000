@@ -11,11 +11,11 @@ public class Boat implements WaterVehicle
  {
 
  }
- public Boat(String name,int capacity)
- {
-     this.name=name;
-     this.capacity=capacity;
- }
+// public Boat(String name,int capacity)
+// {
+//     this.name=name;
+//     this.capacity=capacity;
+// }
 
     @Override
     public String getVehicleName() {
